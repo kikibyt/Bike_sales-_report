@@ -3,6 +3,10 @@
 ![output2](https://github.com/kikibyt/Bike_sales-_report/assets/127496130/67b5adc4-a913-49b4-813c-80d0511fd951)
 ![output 3](https://github.com/kikibyt/Bike_sales-_report/assets/127496130/790afdbe-2553-4768-ba67-956d7c02ad29)
 ![output 4](https://github.com/kikibyt/Bike_sales-_report/assets/127496130/7d524f0b-39b3-4cae-894c-b95085dc3587)
+![output 6](https://github.com/kikibyt/Bike_sales-_report/assets/127496130/a180b388-b720-47bb-974b-006de7556da5)
+![output 7](https://github.com/kikibyt/Bike_sales-_report/assets/127496130/8016cd99-2c37-4c04-a010-5647c1dca516)
+![output 5](https://github.com/kikibyt/Bike_sales-_report/assets/127496130/3596e77e-b898-48b3-b43f-fa6a5dc1dd55)
+
  Data Analysis
 
 ## Overview
