@@ -1,5 +1,7 @@
 
 # Bike Sales Report
+![output 8](https://github.com/kikibyt/Bike_sales-_report/assets/127496130/7a2cd947-2b12-4058-988c-35ded29fb51d)
+
 ![output2](https://github.com/kikibyt/Bike_sales-_report/assets/127496130/67b5adc4-a913-49b4-813c-80d0511fd951)
 ![output 3](https://github.com/kikibyt/Bike_sales-_report/assets/127496130/790afdbe-2553-4768-ba67-956d7c02ad29)
 ![output 4](https://github.com/kikibyt/Bike_sales-_report/assets/127496130/7d524f0b-39b3-4cae-894c-b95085dc3587)
